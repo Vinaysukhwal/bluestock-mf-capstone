@@ -1,0 +1,7 @@
+DATA QUALITY ANOMALY LOG
+Generated: 2026-06-23 11:40:58.715836
+============================================================
+
+* [04_monthly_sip_inflows.csv] Null values found: yoy_growth_pct=12
+
+Total anomalies flagged: 1
